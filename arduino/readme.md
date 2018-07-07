@@ -13,6 +13,7 @@ GDEW029Z10 2.9" e-paper display (B) library for Arduino
 1.  Download the library from https://github.com/soonuse/gdew029z10_2.9inch_e-paper_b/archive/master.zip
 2.  Unzip the downloaded file.
 3.  (In the Arduino IDE) Sketch > Include Library > Add .ZIP Library > select the folder gdew042t2_4.2inch_e-paper-master/arduino/epd2in9b from the unzipped folder > Open
-4.  Upload the project.
-5.  The e-Paper will display images.
+4.  File > Examples > epd2in9b > epd2in9b-demo
+5.  Upload the project.
+6.  The e-Paper will display images.
 
